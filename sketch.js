@@ -28,7 +28,7 @@ var options= {
   restitution:1
 }
 
-//   fairy=Bodies.rectangle(80,500,w/2,h/2,options);
+  fairy=Bodies.rectangle(80,500,w/2,h/2,options);
 //   fairy=Body.rectangle(80,500,w/2,h/2,options);
 //   fairy=Bodies.rectangles(80,500,w/2,h/2,options);
 //   fairy=Bodies.rectanglular(80,500,w/2,h/2,options);
@@ -38,7 +38,7 @@ var options= {
     isStatic:true,
     restitution:0
   }
-//   star=Bodies.circle(400,10,10,starOptions);  
+  star=Bodies.circle(400,10,10,starOptions);  
 //   star=Body.circle(400,10,10,starOptions);  
 //   star=Bodies.circles(400,10,10,starOptions);  
 //   star=Body.circles(400,10,10,starOptions);
